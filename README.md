@@ -7,7 +7,7 @@ This project focuses on detecting and tracking weapons using various versions of
 
 **👥 Team Members**
 
-Neha Choudhary (YOLOV11) (Leader),
+Neha Choudhary (YOLOV11) (Leader) https://github.com/NehaChoudhary6/FinalYear-Project-YOLOV11- (MY PART),
 Sneha Das (YOLOv8),
 Amanpreet Kaur (YOLOv9),
 Chetna Saraf (YOLOv5),
