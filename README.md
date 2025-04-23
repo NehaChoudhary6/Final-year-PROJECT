@@ -9,9 +9,12 @@ This project focuses on detecting and tracking weapons using various versions of
 
 Neha Choudhary (YOLOV11) (Leader) https://github.com/NehaChoudhary6/FinalYear-Project-YOLOV11- (MY PART),                                                                      
 Sneha Das (YOLOv8),
+
 Amanpreet Kaur (YOLOv9),
+
 Chetna Saraf (YOLOv5),
-Dhanesh Dadheech (YOLOv7),
+
+Dhanesh Dadheech (YOLOv12),
 
 **🎓 Mentor**
 Abhishek Sir (AI/ML Department HOD)
