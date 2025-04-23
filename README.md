@@ -39,7 +39,7 @@ We have downloaded our dataset from Roboflow: https://universe.roboflow.com/elys
   
 2️⃣ Model Training 🎯
 - Train the dataset using Google Colab (A100 GPU) for fast processing.
-- Each member tests their respective YOLO version (YOLOv5, YOLOv7, YOLOv8, YOLOv9, YOLOv11).
+- Each member tests their respective YOLO version (YOLOv5, YOLOv8, YOLOv9, YOLOv11, YOLOv12).
   
 3️⃣ Evaluation & Comparison 📊
 - Compare the accuracy, precision, recall, and mAP (mean Average Precision) of each model.
@@ -64,6 +64,7 @@ Improve model accuracy with additional training data.
 **🔗 References**
 
 Roboflow Dataset(https://roboflow.com/)
+
 Albumentations(https://albumentations.ai/)
 
 📢 Stay tuned for updates! 💡(Still Working)
