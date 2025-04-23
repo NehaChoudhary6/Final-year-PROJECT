@@ -28,15 +28,19 @@ Dataset Format: YOLO format (.txt annotation files)
 Dataset: Roboflow 📊
 
 **📂 Dataset**
+
 We have downloaded our dataset from Roboflow: https://universe.roboflow.com/elyspose/weapon-detect-elysium-data
 
 **📌 Project Workflow**
+
 1️⃣ Dataset Preparation 🗂️
 - Download dataset from Roboflow.
 - Perform image augmentation for better generalization.
+  
 2️⃣ Model Training 🎯
 - Train the dataset using Google Colab (A100 GPU) for fast processing.
 - Each member tests their respective YOLO version (YOLOv5, YOLOv7, YOLOv8, YOLOv9, YOLOv11).
+  
 3️⃣ Evaluation & Comparison 📊
 - Compare the accuracy, precision, recall, and mAP (mean Average Precision) of each model.
 - Select the best-performing YOLO model as our final model. ✅
